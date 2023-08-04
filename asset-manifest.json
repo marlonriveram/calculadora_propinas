@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calculadora_propinas/static/css/main.aa15b3f2.css",
+    "main.js": "/calculadora_propinas/static/js/main.0c2d59a9.js",
+    "static/js/787.2094ba1c.chunk.js": "/calculadora_propinas/static/js/787.2094ba1c.chunk.js",
+    "index.html": "/calculadora_propinas/index.html",
+    "main.aa15b3f2.css.map": "/calculadora_propinas/static/css/main.aa15b3f2.css.map",
+    "main.0c2d59a9.js.map": "/calculadora_propinas/static/js/main.0c2d59a9.js.map",
+    "787.2094ba1c.chunk.js.map": "/calculadora_propinas/static/js/787.2094ba1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa15b3f2.css",
+    "static/js/main.0c2d59a9.js"
+  ]
+}
